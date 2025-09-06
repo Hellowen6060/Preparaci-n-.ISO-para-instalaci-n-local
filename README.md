@@ -44,6 +44,12 @@ irm https://raw.githubusercontent.com/Hellowen6060/Preparaci-n-.ISO-para-instala
 - Rutas relativas y sin dependencias externas
 - Interfaz visual integrada (Windows Forms)
 
+##😊 Ventajas de su utilización
+
+- Puedes usar esta partición para futuras instalaciones en tu equipo al ya tener configurada esta partición en modo booteo
+- En un futuro cuando desees reinstalar el sistema y la imagen este obsoleta, puedes borrar manualmente el contenido de la partición, y copiar allí el contenido de una nueva ISO
+- Siempre tendras este instalador de forma rápida para cualquier situación
+
 ## 🧩 Autoría y mantenimiento
 
 Este script fue desarrollado y depurado en colaboración con [Copilot] para garantizar trazabilidad, armonía visual y compatibilidad multiplataforma.  
