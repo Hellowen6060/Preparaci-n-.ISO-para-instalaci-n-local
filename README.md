@@ -22,7 +22,7 @@ Este script en PowerShell permite preparar una instalación local de Windows des
 
 ## 🛠️ Uso
 
-1. Ejecuta el script como administrador.
+1. Ejecuta el script en PowerShell como administrador.
 ```powershell
 irm https://raw.githubusercontent.com/Hellowen6060/Preparaci-n-.ISO-para-instalaci-n-local/refs/heads/main/Preparar_GIT.ps1 | iex
 ```
